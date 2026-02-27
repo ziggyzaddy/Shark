@@ -22,7 +22,7 @@ class SharkCog(commands.Cog):
         )
 
 
-    async def dice(self, ctx):
+    async def sharkdice(self, ctx):
         """This does stuff!"""
         # Your code will go here
         await ctx.send("Roll Test!")

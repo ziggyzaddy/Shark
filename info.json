@@ -1,20 +1,9 @@
 {
-    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
-    "name": "SharkCog",
-    "short": "Baby shark doo do dooo",
-    "description": "Baby shark doooo do do",
-    "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-    "install_msg": "You've installed Baby Shark. The shark is swimming.",
+    "name": "SharkCogs",
     "author": [
-        "Baby Shark"
-    ],
-    "required_cogs": {},
-    "requirements": [],
-    "tags": [
         "Shark"
     ],
-    "min_bot_version": "3.5.0",
-    "hidden": false,
-    "disabled": false,
-    "type": "COG"
+    "short": "Cogs for baby shark",
+    "description": "This is a test of the cog system",
+    "install_msg": "Thank you for testing this\n"
 }
