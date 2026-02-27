@@ -22,6 +22,7 @@ class SharkCog(commands.Cog):
         )
 
 
+    @commands.command()
     async def sharkdice(self, ctx):
         """This does stuff!"""
         # Your code will go here

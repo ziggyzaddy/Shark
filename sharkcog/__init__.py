@@ -1,7 +1,7 @@
 from redbot.core.bot import Red
 from redbot.core.utils import get_end_user_data_statement_or_raise
 
-from .sharkcogs import SharkCog
+from .sharkcog import SharkCog
 
 __red_end_user_data_statement__ = get_end_user_data_statement_or_raise(__file__)
 
