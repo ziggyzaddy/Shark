@@ -26,7 +26,7 @@ class SharkCog(commands.Cog):
     async def sharkdice(self, ctx):
         """This does stuff!"""
         # Your code will go here
-        await ctx.send("Roll Test!")
+        await ctx.send("!help")
 
     async def red_delete_data_for_user(self, *, requester: RequestType, user_id: int) -> None:
         # TODO: Replace this with the proper end user data removal handling.
